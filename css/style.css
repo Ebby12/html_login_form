@@ -22,7 +22,7 @@ label{
      input[type=text] {
      display:inline-block;
      border:none ;
-     padding:10px;
+     padding:10px 30px;
      margin:10px 0;
      background: tansparent;
      color:blanchedalmond;
@@ -35,8 +35,8 @@ label{
         color:gray;
         font-family: sans-serif;
         text-transform: uppercase;
-        padding:10px 30px
-        border-radius 8px;
+        padding:10px 30px;
+        border-radius :8px;
         letter-spacing: 3px;
         
 
@@ -44,7 +44,7 @@ label{
     }
     button:hover{
         background:bisque;
-        border: 2px solid coral;
+        border: 1px solid greenyellow;
 
     }
     
