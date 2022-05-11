@@ -12,3 +12,39 @@ form{
     transform: translate(-50%,-50%)
 
 }
+label{
+    font-family:sans-serif;
+    letter-spacing :1px;
+    text-transform: uppercase;
+    font: size 0.8em;
+    color:rgb(7, 54, 7);
+}
+     input[type=text] {
+     display:inline-block;
+     border:none ;
+     padding:10px;
+     margin:10px 0;
+     background: tansparent;
+     color:blanchedalmond;
+     box-shadow: 3px 2px green;
+    
+    }
+
+    button{
+        background-color: transparent green;
+        color:gray;
+        font-family: sans-serif;
+        text-transform: uppercase;
+        padding:10px 30px
+        border-radius 8px;
+        letter-spacing: 3px;
+        
+
+
+    }
+    button:hover{
+        background:bisque;
+        border: 2px solid coral;
+
+    }
+    
